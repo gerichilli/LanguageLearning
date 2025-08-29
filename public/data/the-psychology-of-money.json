@@ -1,0 +1,1439 @@
+{
+  "title": "The Psychology Of Money",
+  "coverImage": "/assets/the-psychology-of-money.webp",
+  "colorSchema": {
+    "primary": "#3F6B5C",
+    "secondary": "#353638"
+  },
+  "level": "C1",
+  "words": [
+    {
+      "word": "valet",
+      "ipa": "/ˈvæleɪ/ or /væˈleɪ/",
+      "meaning": [
+        {
+          "vi": "người phục vụ (thường là trông xe hoặc phục vụ trong khách sạn)",
+          "example_en": "I spent my college years working as a valet at a nice hotel in Los Angeles.",
+          "example_vi": "Tôi đã dành những năm đại học làm việc như một người phục vụ trông xe ở một khách sạn sang trọng tại Los Angeles.",
+          "note": "Trong Mỹ Anh, 'valet' thường chỉ nhân viên trông xe; trong Anh Anh truyền thống, còn có nghĩa người hầu nam."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "technology executive",
+      "ipa": "/tɛkˈnɒlədʒi ɪɡˈzɛkjətɪv/",
+      "meaning": [
+        {
+          "vi": "giám đốc điều hành trong lĩnh vực công nghệ",
+          "example_en": "One frequent guest was a technology executive.",
+          "example_vi": "Một vị khách thường xuyên là một giám đốc điều hành trong lĩnh vực công nghệ.",
+          "note": "Dùng để chỉ người giữ vị trí lãnh đạo cấp cao tại các công ty công nghệ."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "patent",
+      "ipa": "/ˈpeɪt(ə)nt/ or /ˈpæt(ə)nt/",
+      "meaning": [
+        {
+          "vi": "cấp bằng sáng chế",
+          "example_en": "…having designed and patented a key component in Wi-Fi routers in his 20s.",
+          "example_vi": "…đã thiết kế và được cấp bằng sáng chế cho một thành phần quan trọng trong bộ định tuyến Wi-Fi khi mới ngoài 20 tuổi.",
+          "note": "Trong câu gốc là 'patented' (V2/PP), nguyên mẫu là 'patent'."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "wealth",
+      "ipa": "/welθ/",
+      "meaning": [
+        {
+          "vi": "sự giàu có, tài sản",
+          "example_en": "…and loudly about his wealth, often while drunk…",
+          "example_vi": "…và to tiếng về sự giàu có của mình, thường khi say rượu…",
+          "note": "Chỉ sự dồi dào về tiền bạc, tài sản; đôi khi dùng bóng nghĩa để chỉ sự phong phú về một cái gì đó."
+        }
+      ],
+      "cefr_level": "B1",
+      "favorite": false
+    },
+    {
+      "word": "apropos of nothing",
+      "ipa": "/ˌæprəˈpoʊ əv ˈnʌθɪŋ/",
+      "meaning": [
+        {
+          "vi": "không liên quan gì, chẳng ăn nhập gì",
+          "example_en": "…and always apropos of nothing.",
+          "example_vi": "…và luôn nói chẳng ăn nhập gì cả.",
+          "note": "Thường dùng khi một hành động hoặc phát biểu xuất hiện bất ngờ, không liên quan đến ngữ cảnh."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": true
+    },
+    {
+      "word": "shatter",
+      "ipa": "/ˈʃætər/",
+      "meaning": [
+        {
+          "vi": "làm vỡ tan, đập vỡ",
+          "example_en": "Days later he shattered a lamp in the hotel’s restaurant.",
+          "example_vi": "Vài ngày sau, anh ta đã làm vỡ một chiếc đèn trong nhà hàng của khách sạn.",
+          "note": "Trong câu gốc là 'shattered' (V2), nguyên mẫu là 'shatter'. Thường dùng cho những thứ vỡ thành nhiều mảnh."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "incredulously",
+      "ipa": "/ɪnˈkrɛdʒələsli/",
+      "meaning": [
+        {
+          "vi": "một cách ngờ vực, không tin tưởng",
+          "example_en": "“You want five hundred dollars?” the executive asked incredulously…",
+          "example_vi": "“Anh muốn năm trăm đô la à?” vị giám đốc hỏi với vẻ ngờ vực…",
+          "note": "Trạng từ, xuất phát từ 'incredulous' (adj) nghĩa là khó tin hoặc hoài nghi."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "brick of cash",
+      "ipa": "/brɪk əv kæʃ/",
+      "meaning": [
+        {
+          "vi": "cọc tiền mặt (dày như viên gạch)",
+          "example_en": "…while pulling a brick of cash from his pocket…",
+          "example_vi": "…vừa lôi một cọc tiền mặt từ túi ra…",
+          "note": "Cách nói hình ảnh, so sánh cọc tiền dày với viên gạch."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": true
+    },
+    {
+      "word": "insult",
+      "ipa": "/ˈɪnsʌlt/ (noun), /ɪnˈsʌlt/ (verb)",
+      "meaning": [
+        {
+          "vi": "xúc phạm, lăng mạ",
+          "example_en": "And don’t ever insult me like that again.",
+          "example_vi": "Và đừng bao giờ xúc phạm tôi như thế nữa.",
+          "note": "Trong câu gốc là 'insult' (V). Phát âm khác nhau khi là danh từ và động từ."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "folk",
+      "ipa": "/foʊk/",
+      "meaning": [
+        {
+          "vi": "người thường, người bình thường",
+          "example_en": "Ordinary folks with no financial education can be wealthy…",
+          "example_vi": "Những người bình thường không có giáo dục tài chính vẫn có thể giàu có…",
+          "note": "Trong văn nói Mỹ thường dùng 'folks' để chỉ mọi người hoặc dân thường."
+        }
+      ],
+      "cefr_level": "B1",
+      "favorite": false
+    },
+    {
+      "word": "philanthropist",
+      "ipa": "/fɪˈlænθrəpɪst/",
+      "meaning": [
+        {
+          "vi": "nhà từ thiện",
+          "example_en": "Ronald James Read was an American philanthropist, investor, janitor, and gas station attendant.",
+          "example_vi": "Ronald James Read là một nhà từ thiện, nhà đầu tư, nhân viên tạp vụ và nhân viên trạm xăng người Mỹ.",
+          "note": "Danh từ chỉ người thường xuyên quyên góp tiền bạc hoặc thời gian để giúp đỡ người khác."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "janitor",
+      "ipa": "/ˈdʒænɪtər/",
+      "meaning": [
+        {
+          "vi": "nhân viên tạp vụ, lao công",
+          "example_en": "Ronald James Read was an American philanthropist, investor, janitor, and gas station attendant.",
+          "example_vi": "Ronald James Read là một nhà từ thiện, nhà đầu tư, nhân viên tạp vụ và nhân viên trạm xăng người Mỹ.",
+          "note": "Thường dùng trong trường học, văn phòng hoặc chung cư để chỉ người chịu trách nhiệm dọn dẹp, sửa chữa nhỏ."
+        }
+      ],
+      "cefr_level": "B1",
+      "favorite": false
+    },
+    {
+      "word": "hitchhike",
+      "ipa": "/ˈhɪtʃhaɪk/",
+      "meaning": [
+        {
+          "vi": "đi nhờ xe",
+          "example_en": "…made all the more impressive by the fact that he hitchhiked to campus each day.",
+          "example_vi": "…càng ấn tượng hơn bởi việc ông đi nhờ xe đến trường mỗi ngày.",
+          "note": "Trong câu gốc là 'hitchhiked' (V2), nguyên mẫu là 'hitchhike'."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "widow",
+      "ipa": "/ˈwɪdoʊ/",
+      "meaning": [
+        {
+          "vi": "làm góa (vợ/chồng mất)",
+          "example_en": "He was widowed at age 50 and never remarried.",
+          "example_vi": "Ông trở thành góa vợ khi 50 tuổi và không bao giờ tái hôn.",
+          "note": "Trong câu gốc là 'widowed' (V2/adj), nguyên mẫu động từ là 'widow'. Danh từ 'widow' = góa phụ."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "humble",
+      "ipa": "/ˈhʌmbəl/",
+      "meaning": [
+        {
+          "vi": "khiêm nhường, giản dị",
+          "example_en": "Which is when the humble rural janitor made international headlines.",
+          "example_vi": "Đó là khi người lao công nông thôn khiêm nhường này lên trang nhất các báo quốc tế.",
+          "note": "Thường dùng để miêu tả thái độ khiêm tốn hoặc xuất thân đơn giản."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": true
+    },
+    {
+      "word": "rural",
+      "ipa": "/ˈrʊrəl/",
+      "meaning": [
+        {
+          "vi": "thuộc nông thôn",
+          "example_en": "Ronald Read was born in rural Vermont.",
+          "example_vi": "Ronald Read sinh ra ở vùng nông thôn Vermont.",
+          "note": "Trái nghĩa với 'urban' (thuộc thành phố)."
+        }
+      ],
+      "cefr_level": "A2",
+      "favorite": false
+    },
+    {
+      "word": "baffle",
+      "ipa": "/ˈbæfəl/",
+      "meaning": [
+        {
+          "vi": "làm bối rối, gây khó hiểu",
+          "example_en": "Those who knew Read were baffled.",
+          "example_vi": "Những người biết Read đều thấy bối rối.",
+          "note": "Trong câu gốc là 'baffled' (V2/PP), nguyên mẫu là 'baffle'. Thường dùng khi một vấn đề khó hiểu, khiến người khác không thể giải thích được."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "compound",
+      "ipa": "/kəmˈpaʊnd/",
+      "meaning": [
+        {
+          "vi": "tích lũy dần (lãi suất), cộng dồn",
+          "example_en": "…as tiny savings compounded into more than $8 million.",
+          "example_vi": "…khi những khoản tiết kiệm nhỏ dần dần tích lũy thành hơn 8 triệu đô la.",
+          "note": "Trong câu gốc là 'compounded' (V2/PP), nguyên mẫu là 'compound'. Dùng nhiều trong tài chính để chỉ lãi suất kép (compound interest)."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": true
+    },
+    {
+      "word": "integrity",
+      "ipa": "/ɪnˈtɛɡrəti/",
+      "meaning": [
+        {
+          "vi": "chính trực, liêm chính, ngay thẳng",
+          "example_en": "Former Merrill CEO David Komansky praised Fuscone’s business savvy, leadership skills, sound judgment and personal integrity.",
+          "example_vi": "Cựu CEO Merrill David Komansky ca ngợi sự khôn ngoan trong kinh doanh, kỹ năng lãnh đạo, khả năng phán đoán đúng đắn và sự liêm chính cá nhân của Fuscone.",
+          "note": "Danh từ trừu tượng, thường dùng trong ngữ cảnh phẩm chất đạo đức và sự trung thực."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "crisis",
+      "ipa": "/ˈkraɪsɪs/",
+      "meaning": [
+        {
+          "vi": "khủng hoảng",
+          "example_en": "Then the 2008 financial crisis hit.",
+          "example_vi": "Rồi cuộc khủng hoảng tài chính năm 2008 ập đến.",
+          "note": "Số nhiều là 'crises' /ˈkraɪsiːz/. Thường dùng trong ngữ cảnh kinh tế, chính trị, hay khủng hoảng cá nhân."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": true
+    },
+    {
+      "word": "illiquid",
+      "ipa": "/ɪˈlɪkwɪd/",
+      "meaning": [
+        {
+          "vi": "khó thanh khoản (tài sản không dễ chuyển đổi thành tiền mặt)",
+          "example_en": "High debt and illiquid assets left him bankrupt.",
+          "example_vi": "Nợ cao và tài sản khó thanh khoản đã khiến ông phá sản.",
+          "note": "Thường dùng trong tài chính để chỉ tài sản không thể bán hoặc đổi nhanh thành tiền mặt."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": true
+    },
+    {
+      "word": "bankrupt",
+      "ipa": "/ˈbæŋkrʌpt/",
+      "meaning": [
+        {
+          "vi": "phá sản",
+          "example_en": "High debt and illiquid assets left him bankrupt.",
+          "example_vi": "Nợ cao và tài sản khó thanh khoản đã khiến ông phá sản.",
+          "note": "Có thể dùng như tính từ (người/công ty phá sản) hoặc danh từ (người phá sản)."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": true
+    },
+    {
+      "word": "allegedly",
+      "ipa": "/əˈlɛdʒɪdli/",
+      "meaning": [
+        {
+          "vi": "được cho là, bị cáo buộc là",
+          "example_en": "…he allegedly told a bankruptcy judge in 2008.",
+          "example_vi": "…ông được cho là đã nói với một thẩm phán phá sản vào năm 2008.",
+          "note": "Dùng khi nhắc lại điều gì đó chưa được chứng minh, thường trong báo chí hoặc pháp luật."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "foreclosure auction",
+      "ipa": "/fɔːrˈkloʊʒər ˈɔːkʃən/",
+      "meaning": [
+        {
+          "vi": "đấu giá tịch thu tài sản (thường là nhà đất khi không trả được nợ)",
+          "example_en": "…was sold in a foreclosure auction for 75% less than an insurance company figured it was worth.",
+          "example_vi": "…đã bị bán trong một cuộc đấu giá tịch thu tài sản với giá thấp hơn 75% so với ước tính của công ty bảo hiểm.",
+          "note": "Thuật ngữ pháp lý - tài chính, phổ biến ở Mỹ khi ngân hàng tịch thu tài sản thế chấp để bán trả nợ."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "greedy",
+      "ipa": "/ˈɡriːdi/",
+      "meaning": [
+        {
+          "vi": "tham lam",
+          "example_en": "Richard Fuscone was greedy.",
+          "example_vi": "Richard Fuscone thì tham lam.",
+          "note": "Tính từ, chỉ người luôn muốn có nhiều hơn (thường về tiền bạc, quyền lực, hoặc thức ăn)."
+        }
+      ],
+      "cefr_level": "B1",
+      "favorite": false
+    },
+    {
+      "word": "eclipse",
+      "ipa": "/ɪˈklɪps/",
+      "meaning": [
+        {
+          "vi": "làm lu mờ, át hẳn",
+          "example_en": "That’s all it took to eclipse the massive education and experience gap between the two.",
+          "example_vi": "Chỉ thế thôi cũng đủ để làm lu mờ khoảng cách lớn về học vấn và kinh nghiệm giữa hai người.",
+          "note": "Trong thiên văn, 'eclipse' = nhật thực/nguyệt thực; trong nghĩa bóng = vượt trội, che lấp."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": true
+    },
+    {
+      "word": "outperform",
+      "ipa": "/ˌaʊtpərˈfɔːrm/",
+      "meaning": [
+        {
+          "vi": "vượt trội hơn, làm tốt hơn",
+          "example_en": "…massively outperform someone with the best education, the best training, and the best connections?",
+          "example_vi": "…có thể vượt trội hẳn so với người có nền giáo dục, đào tạo và quan hệ tốt nhất?",
+          "note": "Động từ thường dùng trong kinh doanh, thể thao, học tập để so sánh kết quả."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": true
+    },
+    {
+      "word": "transplant",
+      "ipa": "/ˈtrænsplænt/ (n), /trænsˈplænt/ (v)",
+      "meaning": [
+        {
+          "vi": "cấy ghép (thường dùng trong y học: cấy ghép nội tạng)",
+          "example_en": "It is impossible to think of a story about Ronald Read performing a heart transplant…",
+          "example_vi": "Thật khó có thể tưởng tượng câu chuyện Ronald Read thực hiện một ca cấy ghép tim…",
+          "note": "Có thể là danh từ (một ca ghép) hoặc động từ (cấy ghép). Thường dùng: 'organ transplant', 'heart transplant'."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "surgeon",
+      "ipa": "/ˈsɜːrdʒən/",
+      "meaning": [
+        {
+          "vi": "bác sĩ phẫu thuật",
+          "example_en": "…better than a Harvard-trained surgeon.",
+          "example_vi": "…giỏi hơn một bác sĩ phẫu thuật được đào tạo ở Harvard.",
+          "note": "Danh từ chỉ bác sĩ chuyên thực hiện phẫu thuật; liên quan: 'surgery' (phẫu thuật), 'surgical' (thuộc về phẫu thuật)."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "extent",
+      "ipa": "/ɪkˈstɛnt/",
+      "meaning": [
+        {
+          "vi": "mức độ, phạm vi",
+          "example_en": "That’s true to some extent, and this book will discuss it in further detail.",
+          "example_vi": "Điều đó đúng ở một mức độ nào đó, và cuốn sách này sẽ bàn chi tiết hơn.",
+          "note": "Cụm phổ biến: 'to some extent' = ở một mức độ nào đó."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "underappreciated",
+      "ipa": "/ˌʌndərəˈpriːʃieɪtɪd/",
+      "meaning": [
+        {
+          "vi": "không được đánh giá cao",
+          "example_en": "These soft skills are, I’ve come to realize, greatly underappreciated.",
+          "example_vi": "Tôi nhận ra rằng những kỹ năng mềm này đã bị đánh giá thấp.",
+          "note": "Trong câu gốc là 'underappreciated' (adj, PP). Nguyên mẫu động từ: 'underappreciate'."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": true
+    },
+    {
+      "word": "correlation",
+      "ipa": "/ˌkɔːrəˈleɪʃən/",
+      "meaning": [
+        {
+          "vi": "mối tương quan",
+          "example_en": "It’s true in investing, where we know the exact historical correlations between interest rates and valuations.",
+          "example_vi": "Điều đó đúng trong đầu tư, nơi chúng ta biết rõ các mối tương quan lịch sử giữa lãi suất và định giá.",
+          "note": "Danh từ, thường dùng trong thống kê, kinh tế, khoa học. Động từ liên quan: 'correlate'."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "triumph",
+      "ipa": "/ˈtraɪəmf/",
+      "meaning": [
+        {
+          "vi": "chiến thắng, thành tựu vĩ đại",
+          "example_en": "The health care industry is a triumph of modern science, with rising life expectancy across the world.",
+          "example_vi": "Ngành y tế là một thành tựu vĩ đại của khoa học hiện đại, với tuổi thọ ngày càng tăng trên toàn thế giới.",
+          "note": "Có thể dùng như danh từ (sự thành công lớn) hoặc động từ (chiến thắng)."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "scoop up",
+      "ipa": "/skuːp ʌp/",
+      "meaning": [
+        {
+          "vi": "hốt lấy, thu hút nhanh chóng",
+          "example_en": "Finance has scooped up the smartest minds coming from top universities over the last two decades.",
+          "example_vi": "Ngành tài chính đã nhanh chóng thu hút những bộ óc thông minh nhất từ các trường đại học hàng đầu trong hai thập kỷ qua.",
+          "note": "Cụm động từ; mang nghĩa lấy nhanh, thu hút nhiều (thường dùng bóng nghĩa)."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "plumber",
+      "ipa": "/ˈplʌmər/",
+      "meaning": [
+        {
+          "vi": "thợ sửa ống nước",
+          "example_en": "…we learned how to become better farmers, skilled plumbers, and advanced chemists.",
+          "example_vi": "…chúng ta đã học cách trở thành nông dân giỏi hơn, thợ sửa ống nước lành nghề và nhà hóa học tiên tiến.",
+          "note": "Danh từ chỉ nghề nghiệp; xuất phát từ 'plumb' (ống nước)."
+        }
+      ],
+      "cefr_level": "A2",
+      "favorite": false
+    },
+    {
+      "word": "compelling",
+      "ipa": "/kəmˈpɛlɪŋ/",
+      "meaning": [
+        {
+          "vi": "thuyết phục, hấp dẫn",
+          "example_en": "I’ve seen no compelling evidence.",
+          "example_vi": "Tôi chưa thấy bằng chứng nào thuyết phục.",
+          "note": "Tính từ thường dùng cho lý lẽ, bằng chứng, câu chuyện, hoặc nhân vật lôi cuốn."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "magnifying glass",
+      "ipa": "/ˈmæɡnɪfaɪɪŋ ɡlæs/",
+      "meaning": [
+        {
+          "vi": "kính lúp",
+          "example_en": "Few topics provide a more powerful magnifying glass than money.",
+          "example_vi": "Ít chủ đề nào mang đến một chiếc kính lúp mạnh mẽ hơn tiền bạc.",
+          "note": "Dùng nghĩa bóng trong câu để chỉ công cụ/phương tiện phóng đại hoặc làm rõ vấn đề."
+        }
+      ],
+      "cefr_level": "B1",
+      "favorite": true
+    },
+    {
+      "word": "recession",
+      "ipa": "/rɪˈsɛʃən/",
+      "meaning": [
+        {
+          "vi": "suy thoái kinh tế",
+          "example_en": "It was the dawn of a financial crisis and the worst recession in 80 years.",
+          "example_vi": "Đó là buổi bình minh của một cuộc khủng hoảng tài chính và cuộc suy thoái tồi tệ nhất trong 80 năm.",
+          "note": "Danh từ thường dùng trong kinh tế vĩ mô. Nặng hơn 'slowdown' nhưng nhẹ hơn 'depression'."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": true
+    },
+    {
+      "word": "convincing",
+      "ipa": "/kənˈvɪnsɪŋ/",
+      "meaning": [
+        {
+          "vi": "có sức thuyết phục",
+          "example_en": "For every good explanation there was an equally convincing rebuttal.",
+          "example_vi": "Đối với mỗi lời giải thích hay đều có một phản bác thuyết phục tương đương.",
+          "note": "Tính từ, thường dùng với 'argument', 'evidence', 'reason'. Nguyên mẫu động từ gốc: 'convince'."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "rebuttal",
+      "ipa": "/rɪˈbʌtəl/",
+      "meaning": [
+        {
+          "vi": "sự phản bác, bác bỏ",
+          "example_en": "For every good explanation there was an equally convincing rebuttal.",
+          "example_vi": "Đối với mỗi lời giải thích hay đều có một sự phản bác thuyết phục tương đương.",
+          "note": "Danh từ, thường dùng trong tranh luận, pháp luật, học thuật."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "controversial",
+      "ipa": "/ˌkɒntrəˈvɜːʃəl/ or /ˌkɑːntrəˈvɜːrʃəl/",
+      "meaning": [
+        {
+          "vi": "gây tranh cãi",
+          "example_en": "Physics isn’t controversial. It’s guided by laws.",
+          "example_vi": "Vật lý không gây tranh cãi. Nó được dẫn dắt bởi các quy luật.",
+          "note": "Tính từ, trái nghĩa với 'uncontroversial'. Thường dùng cho vấn đề xã hội, chính trị, học thuật."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": true
+    },
+    {
+      "word": "optimism",
+      "ipa": "/ˈɒptɪmɪzəm/",
+      "meaning": [
+        {
+          "vi": "sự lạc quan",
+          "example_en": "To grasp why people bury themselves in debt you don’t need to study interest rates; you need to study the history of greed, insecurity, and optimism.",
+          "example_vi": "Để hiểu tại sao con người tự vùi mình vào nợ nần, bạn không cần nghiên cứu lãi suất; bạn cần nghiên cứu lịch sử của lòng tham, sự bất an và sự lạc quan.",
+          "note": "Danh từ; tính từ liên quan: 'optimistic' = lạc quan."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": true
+    },
+    {
+      "word": "sell out at the bottom of a bear market",
+      "ipa": "/sɛl aʊt æt ðə ˈbɒtəm əv ə bɛr ˈmɑːrkɪt/",
+      "meaning": [
+        {
+          "vi": "bán tháo ở đáy thị trường giá xuống",
+          "example_en": "To get why investors sell out at the bottom of a bear market you don’t need to study the math of expected future returns…",
+          "example_vi": "Để hiểu tại sao các nhà đầu tư bán tháo ở đáy thị trường giá xuống, bạn không cần nghiên cứu toán học về lợi nhuận kỳ vọng…",
+          "note": "Thuật ngữ tài chính; 'bear market' = thị trường giá xuống."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": true
+    },
+    {
+      "word": "agony",
+      "ipa": "/ˈæɡəni/",
+      "meaning": [
+        {
+          "vi": "nỗi đau đớn tột cùng",
+          "example_en": "…you need to think about the agony of looking at your family and wondering if your investments are imperiling their future.",
+          "example_vi": "…bạn cần nghĩ đến nỗi đau đớn tột cùng khi nhìn gia đình mình và tự hỏi liệu các khoản đầu tư có đang đe dọa tương lai của họ hay không.",
+          "note": "Danh từ thường chỉ nỗi đau tinh thần hoặc thể chất rất lớn."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "imperil",
+      "ipa": "/ɪmˈpɛrəl/",
+      "meaning": [
+        {
+          "vi": "đe dọa, gây nguy hiểm",
+          "example_en": "…wondering if your investments are imperiling their future.",
+          "example_vi": "…tự hỏi liệu các khoản đầu tư có đang đe dọa tương lai của họ hay không.",
+          "note": "Động từ trang trọng, thường dùng trong văn viết; đồng nghĩa với 'endanger'."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "flaw",
+      "ipa": "/flɔː/",
+      "meaning": [
+        {
+          "vi": "thiếu sót, khiếm khuyết, nhược điểm",
+          "example_en": "In 2018, I wrote a report outlining 20 of the most important flaws, biases, and causes of bad behavior I’ve seen affect people when dealing with money.",
+          "example_vi": "Năm 2018, tôi đã viết một báo cáo nêu 20 thiếu sót, định kiến và nguyên nhân quan trọng nhất của những hành vi xấu mà tôi thấy ảnh hưởng đến con người khi quản lý tiền bạc.",
+          "note": "Danh từ; có thể chỉ lỗi nhỏ trong vật chất hoặc lỗi trong tính cách, hệ thống."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": true
+    },
+    {
+      "word": "unaltered",
+      "ipa": "/ʌnˈɔːltərd/",
+      "meaning": [
+        {
+          "vi": "không thay đổi, giữ nguyên",
+          "example_en": "Some short passages from the report appear unaltered in this book.",
+          "example_vi": "Một số đoạn ngắn trong báo cáo xuất hiện nguyên vẹn trong cuốn sách này.",
+          "note": "Tính từ, trái nghĩa với 'altered' (đã thay đổi)."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "counterintuitive",
+      "ipa": "/ˌkaʊntərɪnˈtuːɪtɪv/",
+      "meaning": [
+        {
+          "vi": "ngược lại với trực giác, khó tin theo lẽ thường",
+          "example_en": "…each describing what I consider to be the most important and often counterintuitive features of the psychology of money.",
+          "example_vi": "…mỗi chương mô tả những gì tôi cho là các đặc điểm quan trọng nhất và thường đi ngược lại trực giác trong tâm lý học về tiền bạc.",
+          "note": "Tính từ, dùng khi kết quả trái ngược với điều người ta thường mong đợi."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": true
+    },
+    {
+      "word": "incentive",
+      "ipa": "/ɪnˈsɛntɪv/",
+      "meaning": [
+        {
+          "vi": "động lực, sự khuyến khích",
+          "example_en": "…experiencing different job markets with different incentives and different degrees of luck, learn very different lessons.",
+          "example_vi": "…trải qua các thị trường việc làm khác nhau với những động lực khác nhau và mức độ may mắn khác nhau, con người học được những bài học rất khác nhau.",
+          "note": "Danh từ, thường dùng trong kinh tế, quản lý để chỉ sự khuyến khích tài chính hoặc tinh thần."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": true
+    },
+    {
+      "word": "anchor",
+      "ipa": "/ˈæŋkər/",
+      "meaning": [
+        {
+          "vi": "neo, gắn chặt, dựa vào",
+          "example_en": "So all of us…go through life anchored to a set of views about how money works…",
+          "example_vi": "Vì vậy tất cả chúng ta…sống cuộc đời mình dựa vào một tập hợp quan điểm về cách tiền bạc vận hành…",
+          "note": "Trong câu gốc là 'anchored' (V2/PP), nguyên mẫu là 'anchor'. Ngoài nghĩa đen 'neo tàu', còn nghĩa bóng là dựa vào, bám chặt vào."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "fathom",
+      "ipa": "/ˈfæðəm/",
+      "meaning": [
+        {
+          "vi": "hiểu thấu, thấu triệt",
+          "example_en": "…the child of a wealthy banker cannot fathom if he tried.",
+          "example_vi": "…đứa trẻ của một chủ ngân hàng giàu có không thể nào thấu hiểu dù có cố gắng.",
+          "note": "Động từ trang trọng, thường dùng trong văn viết để chỉ sự hiểu sâu một điều phức tạp."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "inflation",
+      "ipa": "/ɪnˈfleɪʃən/",
+      "meaning": [
+        {
+          "vi": "lạm phát",
+          "example_en": "The person who grew up when inflation was high experienced something the person who grew up with stable prices never had to.",
+          "example_vi": "Người lớn lên trong thời kỳ lạm phát cao đã trải qua điều mà người lớn lên trong giá cả ổn định chưa bao giờ phải trải qua.",
+          "note": "Danh từ, thường dùng trong kinh tế vĩ mô; trái nghĩa với 'deflation' (giảm phát)."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": true
+    },
+    {
+      "word": "persuasive",
+      "ipa": "/pərˈsweɪsɪv/",
+      "meaning": [
+        {
+          "vi": "có sức thuyết phục",
+          "example_en": "And equally persuasive experiences.",
+          "example_vi": "Và những trải nghiệm cũng có sức thuyết phục như vậy.",
+          "note": "Tính từ, thường đi với 'argument', 'speech', 'evidence'. Động từ gốc: 'persuade'."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "inwardly",
+      "ipa": "/ˈɪnwərdli/",
+      "meaning": [
+        {
+          "vi": "trong thâm tâm, bên trong (tâm hồn, cảm xúc)",
+          "example_en": "…the Great Depression 'marked millions of Americans—inwardly—for the rest of their lives.'",
+          "example_vi": "…Đại Khủng Hoảng 'đã in dấu trong thâm tâm hàng triệu người Mỹ—trong suốt phần đời còn lại của họ.'",
+          "note": "Trạng từ; trái nghĩa với 'outwardly' (bên ngoài). Thường dùng để chỉ cảm xúc bên trong không biểu lộ ra ngoài."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "first-hand",
+      "ipa": "/ˌfɜːrst ˈhænd/",
+      "meaning": [
+        {
+          "vi": "trực tiếp, tận mắt",
+          "example_en": "I have no first-hand knowledge of the Depression.",
+          "example_vi": "Tôi không có kiến thức trực tiếp nào về cuộc Đại Khủng Hoảng.",
+          "note": "Trái nghĩa với 'second-hand' (gián tiếp, qua trung gian)."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": true
+    },
+    {
+      "word": "election",
+      "ipa": "/ɪˈlɛkʃən/",
+      "meaning": [
+        {
+          "vi": "cuộc bầu cử",
+          "example_en": "This was a major point in the 1960 election.",
+          "example_vi": "Đây là một điểm quan trọng trong cuộc bầu cử năm 1960.",
+          "note": "Danh từ; đi kèm collocations: 'presidential election', 'general election'."
+        }
+      ],
+      "cefr_level": "A2",
+      "favorite": false
+    },
+    {
+      "word": "opponent",
+      "ipa": "/əˈpoʊnənt/",
+      "meaning": [
+        {
+          "vi": "đối thủ, kẻ đối lập",
+          "example_en": "…and something his primary opponent, Hubert Humphrey, didn’t have.",
+          "example_vi": "…và đó là điều mà đối thủ chính của ông, Hubert Humphrey, không có.",
+          "note": "Danh từ, thường dùng trong chính trị, thể thao, tranh luận."
+        }
+      ],
+      "cefr_level": "B1",
+      "favorite": false
+    },
+    {
+      "word": "complacent",
+      "ipa": "/kəmˈpleɪsənt/",
+      "meaning": [
+        {
+          "vi": "tự mãn, thỏa mãn quá mức",
+          "example_en": "…why someone like me could come across as complacent about things like owning stocks.",
+          "example_vi": "…tại sao người như tôi lại có thể tỏ ra tự mãn về những thứ như sở hữu cổ phiếu.",
+          "note": "Tính từ; thường có nghĩa tiêu cực, chỉ sự chủ quan, thiếu cảnh giác."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "come across as",
+      "ipa": "/kʌm əˈkrɔːs æz/",
+      "meaning": [
+        {
+          "vi": "tỏ ra, bị xem như là",
+          "example_en": "…why someone like me could come across as complacent about things like owning stocks.",
+          "example_vi": "…tại sao người như tôi lại có thể tỏ ra tự mãn về những thứ như sở hữu cổ phiếu.",
+          "note": "Cụm động từ; thường dùng khi nói về ấn tượng hoặc cảm giác người khác nhận được. Ví dụ: 'He comes across as confident' = Anh ấy tỏ ra tự tin."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": true
+    },
+    {
+      "word": "sliver",
+      "ipa": "/ˈslɪvər/",
+      "meaning": [
+        {
+          "vi": "mảnh nhỏ, phần nhỏ",
+          "example_en": "We’ve all only experienced a tiny sliver of it.",
+          "example_vi": "Chúng ta chỉ mới trải qua một phần rất nhỏ của nó.",
+          "note": "Danh từ; collocation thường gặp: 'a sliver of hope' = tia hy vọng nhỏ nhoi."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "sophistication",
+      "ipa": "/səˌfɪstɪˈkeɪʃən/",
+      "meaning": [
+        {
+          "vi": "sự tinh vi, sự sành sỏi",
+          "example_en": "Not intelligence, or education, or sophistication. Just the dumb luck of when and where you were born.",
+          "example_vi": "Không phải trí tuệ, hay giáo dục, hay sự sành sỏi. Chỉ là may rủi về thời điểm và nơi bạn sinh ra.",
+          "note": "Danh từ; chỉ sự tinh tế, am hiểu sâu hoặc phức tạp trong hành vi, kiến thức, hoặc công nghệ."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "famed",
+      "ipa": "/feɪmd/",
+      "meaning": [
+        {
+          "vi": "nổi tiếng, lừng danh",
+          "example_en": "The Financial Times interviewed Bill Gross, the famed bond manager, in 2019.",
+          "example_vi": "Tờ Financial Times đã phỏng vấn Bill Gross, nhà quản lý trái phiếu lừng danh, vào năm 2019.",
+          "note": "Tính từ; thường dùng trong văn viết trang trọng. Đồng nghĩa với 'famous', 'renowned'."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "coincide",
+      "ipa": "/ˌkoʊɪnˈsaɪd/",
+      "meaning": [
+        {
+          "vi": "trùng hợp, xảy ra đồng thời",
+          "example_en": "Gross’s career coincided almost perfectly with a generational collapse in interest rates…",
+          "example_vi": "Sự nghiệp của Gross gần như trùng khớp hoàn hảo với một sự sụp đổ lãi suất theo thế hệ…",
+          "note": "Động từ; danh từ liên quan: 'coincidence'. Thường dùng khi hai sự kiện xảy ra cùng lúc không do sắp đặt."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": true
+    },
+    {
+      "word": "tailwind",
+      "ipa": "/ˈteɪlwɪnd/",
+      "meaning": [
+        {
+          "vi": "thuận lợi, gió xuôi",
+          "example_en": "…a generational collapse in interest rates that gave bond prices a tailwind.",
+          "example_vi": "…một sự sụp đổ lãi suất theo thế hệ đã mang lại thuận lợi cho giá trái phiếu.",
+          "note": "Danh từ; nghĩa gốc = gió thổi từ phía sau giúp di chuyển nhanh hơn. Nghĩa bóng = điều kiện thuận lợi."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "wealth-generating",
+      "ipa": "/wɛlθ ˈdʒɛnəreɪtɪŋ/",
+      "meaning": [
+        {
+          "vi": "tạo ra của cải",
+          "example_en": "To Gross, bonds were wealth-generating machines.",
+          "example_vi": "Với Gross, trái phiếu là những cỗ máy tạo ra của cải.",
+          "note": "Tính từ ghép; thường dùng trong kinh tế để mô tả tài sản hoặc công cụ sinh lợi."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "incinerator",
+      "ipa": "/ɪnˈsɪnəreɪtər/",
+      "meaning": [
+        {
+          "vi": "lò đốt rác",
+          "example_en": "…to his father’s generation, who grew up with and endured higher inflation, they might be seen as wealth incinerators.",
+          "example_vi": "…đối với thế hệ của cha ông, những người lớn lên trong thời kỳ lạm phát cao, chúng có thể bị coi là những lò đốt của cải.",
+          "note": "Danh từ; nghĩa gốc là lò đốt rác thải, nghĩa bóng ở đây chỉ công cụ làm tiêu tan của cải."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "threefold",
+      "ipa": "/ˈθriːfoʊld/",
+      "meaning": [
+        {
+          "vi": "gấp ba lần",
+          "example_en": "…sent prices up more than threefold.",
+          "example_vi": "…khiến giá cả tăng hơn gấp ba lần.",
+          "note": "Có thể dùng như tính từ, trạng từ hoặc danh từ; đồng nghĩa với 'triple'."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "paycheck",
+      "ipa": "/ˈpeɪtʃɛk/",
+      "meaning": [
+        {
+          "vi": "tiền lương (nhận định kỳ, thường qua séc hoặc chuyển khoản)",
+          "example_en": "You remember gas lines and getting paychecks that stretched noticeably less far than the ones before them.",
+          "example_vi": "Bạn còn nhớ cảnh xếp hàng đổ xăng và nhận những khoản lương mà giá trị giảm rõ rệt so với trước đó.",
+          "note": "Danh từ; từ Mỹ-Anh, trong khi Anh-Anh thường dùng 'salary' hay 'wage'."
+        }
+      ],
+      "cefr_level": "B1",
+      "favorite": false
+    },
+    {
+      "word": "outrageous",
+      "ipa": "/aʊtˈreɪdʒəs/",
+      "meaning": [
+        {
+          "vi": "gây sốc, không thể chấp nhận được",
+          "example_en": "…a view about money that one group of people thinks is outrageous can make perfect sense to another.",
+          "example_vi": "…một quan điểm về tiền bạc mà một nhóm người cho là không thể chấp nhận được lại có thể hoàn toàn hợp lý với nhóm khác.",
+          "note": "Tính từ; thường dùng khi nói về hành vi, giá cả, hoặc quan điểm bị coi là quá đáng, vượt quá giới hạn. Đồng nghĩa: 'shocking', 'disgraceful'."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "exploit",
+      "ipa": "/ɪkˈsplɔɪt/",
+      "meaning": [
+        {
+          "vi": "bóc lột, lợi dụng",
+          "example_en": "…would rather be 'exploited' by an evil capitalist boss for a couple of dollars…",
+          "example_vi": "…thà bị một ông chủ tư bản độc ác bóc lột vài đô la…",
+          "note": "Trong câu gốc là 'exploited' (V2/PP), nguyên mẫu: 'exploit'. Mang nghĩa tiêu cực khi nói về lao động. Danh từ cùng gốc: 'exploitation'."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "fiercely",
+      "ipa": "/ˈfɪrsli/",
+      "meaning": [
+        {
+          "vi": "một cách dữ dội, mãnh liệt",
+          "example_en": "Part of me wants to argue, fiercely.",
+          "example_vi": "Một phần trong tôi muốn tranh luận dữ dội.",
+          "note": "Trạng từ, xuất phát từ tính từ 'fierce'. Thường dùng để chỉ cảm xúc hoặc hành động mạnh mẽ, quyết liệt."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "intuitively",
+      "ipa": "/ɪnˈtuːɪtɪvli/",
+      "meaning": [
+        {
+          "vi": "một cách trực giác",
+          "example_en": "…within topics that one side intuitively thinks should be black and white.",
+          "example_vi": "…trong các chủ đề mà một bên theo trực giác nghĩ rằng nên rõ ràng trắng đen.",
+          "note": "Trạng từ; từ gốc: 'intuition' (trực giác), 'intuitive' (thuộc trực giác)."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": true
+    },
+    {
+      "word": "plug into",
+      "ipa": "/plʌɡ ˈɪntuː/",
+      "meaning": [
+        {
+          "vi": "kết nối vào, gắn vào",
+          "example_en": "…by taking the information they have at the moment and plugging it into their unique mental model of how the world works.",
+          "example_vi": "…bằng cách lấy thông tin họ có lúc đó và gắn nó vào mô hình tinh thần độc đáo của họ về cách thế giới vận hành.",
+          "note": "Cụm động từ; nghĩa gốc = cắm phích điện. Nghĩa bóng = đưa dữ liệu/ý tưởng vào một hệ thống."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "misinformed",
+      "ipa": "/ˌmɪsɪnˈfɔːrmd/",
+      "meaning": [
+        {
+          "vi": "bị cung cấp thông tin sai lệch",
+          "example_en": "Those people can be misinformed.",
+          "example_vi": "Những người đó có thể đã bị cung cấp thông tin sai lệch.",
+          "note": "Tính từ (dùng dạng V-ed). Động từ gốc: 'misinform' = cung cấp thông tin sai. Danh từ: 'misinformation'."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "rotten",
+      "ipa": "/ˈrɑːtən/",
+      "meaning": [
+        {
+          "vi": "thối rữa, tồi tệ",
+          "example_en": "They can be persuaded by rotten marketing.",
+          "example_vi": "Họ có thể bị thuyết phục bởi chiến dịch tiếp thị tồi tệ.",
+          "note": "Tính từ; nghĩa gốc = thối, hỏng (rotten fruit). Nghĩa bóng = cực kỳ tồi tệ, thiếu đạo đức."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "subconscious",
+      "ipa": "/ˌsʌbˈkɒnʃəs/ (BrE), /ˌsʌbˈkɑːnʃəs/ (AmE)",
+      "meaning": [
+        {
+          "vi": "tiềm thức",
+          "example_en": "…it’s hard for many of us to intuitively grasp the subconscious reasoning of low-income lottery ticket buyers.",
+          "example_vi": "…rất khó để nhiều người trong chúng ta có thể trực giác nắm bắt được lý lẽ thuộc về tiềm thức của những người mua vé số thu nhập thấp.",
+          "note": "Có thể dùng như danh từ (the subconscious = tiềm thức) hoặc tính từ (subconscious mind = tâm trí tiềm thức)."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": true
+    },
+    {
+      "word": "strain a little",
+      "ipa": "/streɪn ə ˈlɪtl/",
+      "meaning": [
+        {
+          "vi": "cố gắng một chút, gắng sức một chút",
+          "example_en": "But strain a little, and you can imagine it going something like this:",
+          "example_vi": "Nhưng nếu cố gắng một chút, bạn có thể hình dung nó sẽ diễn ra như thế này:",
+          "note": "Cụm động từ; 'strain' = gắng sức, căng ra. Nghĩa bóng = nỗ lực về tinh thần để hiểu hoặc tưởng tượng điều gì."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": true
+    },
+    {
+      "word": "paycheck-to-paycheck",
+      "ipa": "/ˈpeɪtʃɛk tə ˈpeɪtʃɛk/",
+      "meaning": [
+        {
+          "vi": "sống phụ thuộc vào lương hàng tháng (không có dư, không tiết kiệm được)",
+          "example_en": "We live paycheck-to-paycheck and saving seems out of reach.",
+          "example_vi": "Chúng tôi sống dựa vào lương hàng tháng và việc tiết kiệm dường như là ngoài tầm với.",
+          "note": "Thành ngữ phổ biến trong tiếng Anh Mỹ; chỉ tình trạng thu nhập chỉ đủ chi tiêu đến kỳ lương tiếp theo."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": true
+    },
+    {
+      "word": "prospect",
+      "ipa": "/ˈprɒspɛkt/ (BrE), /ˈprɑːspɛkt/ (AmE)",
+      "meaning": [
+        {
+          "vi": "triển vọng, cơ hội",
+          "example_en": "Our prospects for much higher wages seem out of reach.",
+          "example_vi": "Triển vọng có mức lương cao hơn dường như ngoài tầm với.",
+          "note": "Danh từ; collocations: 'career prospects', 'economic prospects'."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "afford",
+      "ipa": "/əˈfɔːrd/",
+      "meaning": [
+        {
+          "vi": "có khả năng chi trả, có đủ điều kiện",
+          "example_en": "We can’t afford nice vacations, new cars, health insurance, or homes in safe neighborhoods.",
+          "example_vi": "Chúng tôi không có khả năng chi trả cho những kỳ nghỉ sang trọng, xe mới, bảo hiểm y tế hoặc nhà ở trong khu an toàn.",
+          "note": "Động từ; cấu trúc thường gặp: 'can/can’t afford to do sth'."
+        }
+      ],
+      "cefr_level": "A2",
+      "favorite": false
+    },
+    {
+      "word": "crippling debt",
+      "ipa": "/ˈkrɪplɪŋ dɛt/",
+      "meaning": [
+        {
+          "vi": "khoản nợ nghiêm trọng, gây kiệt quệ",
+          "example_en": "We can’t put our kids through college without crippling debt.",
+          "example_vi": "Chúng tôi không thể cho con học đại học mà không gánh những khoản nợ nghiêm trọng.",
+          "note": "Collocation; 'crippling' = gây tàn phá, rất nặng nề. Thường dùng với 'debt', 'disease', 'injury'."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "tangible",
+      "ipa": "/ˈtændʒəbəl/",
+      "meaning": [
+        {
+          "vi": "hữu hình, có thể chạm thấy",
+          "example_en": "…the only time in our lives we can hold a tangible dream of getting the good stuff…",
+          "example_vi": "…là lần duy nhất trong đời chúng tôi có thể nắm giữ một giấc mơ hữu hình về việc có được những điều tốt đẹp…",
+          "note": "Tính từ; trái nghĩa với 'intangible'. Thường dùng trong tài chính, luật, triết học."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "infant",
+      "ipa": "/ˈɪnfənt/",
+      "meaning": [
+        {
+          "vi": "trẻ sơ sinh; ở giai đoạn non trẻ",
+          "example_en": "…is based around concepts that are practically infants.",
+          "example_vi": "…dựa trên những khái niệm thực chất vẫn còn non trẻ.",
+          "note": "Danh từ gốc nghĩa là 'trẻ sơ sinh'; trong ngữ cảnh bóng, chỉ điều gì đó còn mới mẻ, chưa phát triển đầy đủ."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "entitled",
+      "ipa": "/ɪnˈtaɪtld/",
+      "meaning": [
+        {
+          "vi": "có quyền (hưởng, được phép)",
+          "example_en": "But the entire concept of being entitled to retirement is, at most, two generations old.",
+          "example_vi": "Nhưng toàn bộ khái niệm về việc có quyền nghỉ hưu mới chỉ tồn tại nhiều nhất hai thế hệ.",
+          "note": "Trong câu gốc là 'entitled' (tính từ/V-ed). Động từ gốc: 'entitle' = cho quyền. Nghĩa khác: 'entitled person' = người cảm thấy mình đương nhiên được đặc quyền (nghĩa tiêu cực)."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": true
+    },
+    {
+      "word": "pension",
+      "ipa": "/ˈpɛnʃən/",
+      "meaning": [
+        {
+          "vi": "lương hưu, trợ cấp hưu trí",
+          "example_en": "But its initial benefits were nothing close to a proper pension.",
+          "example_vi": "Nhưng những khoản trợ cấp ban đầu thì chẳng giống một khoản lương hưu đúng nghĩa.",
+          "note": "Danh từ; collocation thường gặp: 'retirement pension', 'state pension', 'private pension'."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "exaggerate",
+      "ipa": "/ɪɡˈzædʒəreɪt/",
+      "meaning": [
+        {
+          "vi": "phóng đại, thổi phồng",
+          "example_en": "But this is wildly exaggerated.",
+          "example_vi": "Nhưng điều này đã bị thổi phồng quá mức.",
+          "note": "Trong câu gốc là 'exaggerated' (V2/PP). Nguyên mẫu: 'exaggerate'. Danh từ: 'exaggeration'."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "rephrase",
+      "ipa": "/ˌriːˈfreɪz/",
+      "meaning": [
+        {
+          "vi": "diễn đạt lại, nói lại bằng cách khác",
+          "example_en": "To rephrase an old saying: everyone talks about retirement, but apparently very few do anything about it.",
+          "example_vi": "Để diễn đạt lại một câu nói cũ: mọi người đều nói về việc nghỉ hưu, nhưng rõ ràng rất ít người thực sự làm điều gì về nó.",
+          "note": "Động từ; thường dùng trong văn viết, thuyết trình để diễn đạt lại cho dễ hiểu."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "apparently",
+      "ipa": "/əˈpærəntli/",
+      "meaning": [
+        {
+          "vi": "rõ ràng là, hình như là",
+          "example_en": "…but apparently very few do anything about it.",
+          "example_vi": "…nhưng rõ ràng rất ít người thực sự làm điều gì về nó.",
+          "note": "Trạng từ; có thể mang nghĩa 'rõ ràng' dựa trên thông tin đã biết, hoặc 'nghe nói là'."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "minority",
+      "ipa": "/maɪˈnɔːrəti/ or /maɪˈnɒrəti/",
+      "meaning": [
+        {
+          "vi": "thiểu số; nhóm nhỏ (trong tổng thể lớn hơn)",
+          "example_en": "Among that lucky minority, only 15% of household income came from a pension.",
+          "example_vi": "Trong số nhóm thiểu số may mắn đó, chỉ 15% thu nhập hộ gia đình đến từ lương hưu.",
+          "note": "Danh từ; trái nghĩa với 'majority'. Cũng có thể chỉ các nhóm dân tộc thiểu số (ethnic minority)."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "dignified",
+      "ipa": "/ˈdɪɡnɪfaɪd/",
+      "meaning": [
+        {
+          "vi": "đàng hoàng, trang nghiêm",
+          "example_en": "…the idea that everyone deserves, and should have, a dignified retirement took hold.",
+          "example_vi": "…ý tưởng rằng mọi người đều xứng đáng và nên có một kỳ nghỉ hưu đàng hoàng đã hình thành.",
+          "note": "Tính từ; thường dùng để chỉ sự tôn nghiêm, đáng kính trọng. Trái nghĩa: 'undignified'."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "take hold",
+      "ipa": "/teɪk hoʊld/",
+      "meaning": [
+        {
+          "vi": "bắt đầu có ảnh hưởng mạnh, trở nên vững chắc",
+          "example_en": "…the idea that everyone deserves, and should have, a dignified retirement took hold.",
+          "example_vi": "…ý tưởng rằng mọi người đều xứng đáng và nên có một kỳ nghỉ hưu đàng hoàng đã bắt đầu ăn sâu và có ảnh hưởng mạnh.",
+          "note": "Trong câu gốc là 'took hold' (V2). Nghĩa bóng thường chỉ một tư tưởng, xu hướng, hoặc bệnh dịch bắt đầu lan rộng và tác động mạnh."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "reiterate",
+      "ipa": "/riˈɪtəreɪt/",
+      "meaning": [
+        {
+          "vi": "nhắc lại, lặp lại",
+          "example_en": "Let me reiterate how new this idea is.",
+          "example_vi": "Để tôi nhắc lại ý tưởng này còn mới mẻ thế nào.",
+          "note": "Động từ trang trọng, dùng khi muốn nhấn mạnh hoặc lặp lại một quan điểm."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "backbone",
+      "ipa": "/ˈbækboʊn/",
+      "meaning": [
+        {
+          "vi": "xương sống; nền tảng chính",
+          "example_en": "…the backbone savings vehicle of American retirement…",
+          "example_vi": "…phương tiện tiết kiệm chủ chốt cho hưu trí của người Mỹ…",
+          "note": "Danh từ; nghĩa gốc = xương sống. Nghĩa bóng = nền tảng quan trọng, trụ cột."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "wing it",
+      "ipa": "/wɪŋ ɪt/",
+      "meaning": [
+        {
+          "vi": "làm mà không chuẩn bị, ứng biến",
+          "example_en": "We’re winging it.",
+          "example_vi": "Chúng tôi đang làm liều mà thôi.",
+          "note": "Thành ngữ; thường dùng trong văn nói. Nghĩa = làm gì đó mà không chuẩn bị kỹ lưỡng."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": true
+    },
+    {
+      "word": "index fund",
+      "ipa": "/ˈɪndɛks fʌnd/",
+      "meaning": [
+        {
+          "vi": "quỹ chỉ số",
+          "example_en": "Same goes for index funds, which are less than 50 years old.",
+          "example_vi": "Điều tương tự cũng đúng với các quỹ chỉ số, vốn mới chỉ tồn tại chưa đến 50 năm.",
+          "note": "Danh từ tài chính; là quỹ đầu tư thụ động theo dõi hiệu suất của một chỉ số thị trường cụ thể (ví dụ S&P 500). Số nhiều: 'index funds'."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "hedge fund",
+      "ipa": "/hɛdʒ fʌnd/",
+      "meaning": [
+        {
+          "vi": "quỹ đầu cơ",
+          "example_en": "And hedge funds, which didn’t take off until the last 25 years…",
+          "example_vi": "Và các quỹ đầu cơ, vốn chỉ thực sự phát triển trong vòng 25 năm qua…",
+          "note": "Thuật ngữ tài chính; loại quỹ đầu tư rủi ro cao, thường dành cho nhà đầu tư tổ chức/giàu có."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "mortgage",
+      "ipa": "/ˈmɔːrɡɪdʒ/",
+      "meaning": [
+        {
+          "vi": "khoản vay thế chấp (mua nhà)",
+          "example_en": "Even widespread use of consumer debt—mortgages, credit cards, and car loans…",
+          "example_vi": "Ngay cả việc sử dụng rộng rãi nợ tiêu dùng—khoản vay thế chấp mua nhà, thẻ tín dụng, và vay mua xe…",
+          "note": "Danh từ; collocations: 'take out a mortgage', 'pay off a mortgage'."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "domesticate",
+      "ipa": "/dəˈmɛstɪkeɪt/",
+      "meaning": [
+        {
+          "vi": "thuần hóa (động vật); trồng trọt để canh tác",
+          "example_en": "Dogs were domesticated 10,000 years ago and still retain some behaviors of their wild ancestors.",
+          "example_vi": "Chó đã được thuần hóa cách đây 10.000 năm và vẫn giữ lại một số hành vi của tổ tiên hoang dã.",
+          "note": "Trong câu gốc là 'were domesticated' (bị động, quá khứ). Nguyên mẫu: 'domesticate'. Danh từ: 'domestication'."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "acclimated",
+      "ipa": "/ˈæklɪmeɪtɪd/",
+      "meaning": [
+        {
+          "vi": "thích nghi (với môi trường, điều kiện mới)",
+          "example_en": "…hoping to be perfectly acclimated.",
+          "example_vi": "…hy vọng có thể thích nghi hoàn toàn.",
+          "note": "Trong câu gốc là 'acclimated' (V2/PP). Động từ gốc: 'acclimate'. Đồng nghĩa: 'adapt'."
+        }
+      ],
+      "cefr_level": "C1",
+      "favorite": false
+    },
+    {
+      "word": "given",
+      "ipa": "/ˈɡɪvən/",
+      "meaning": [
+        {
+          "vi": "xét đến, căn cứ vào",
+          "example_en": "…that seem to make sense to us in a given moment.",
+          "example_vi": "…những điều có vẻ hợp lý với chúng ta trong một thời điểm nhất định.",
+          "note": "Tính từ/danh từ; thường dùng trong cụm 'a given situation', 'at any given time'."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    },
+    {
+      "word": "1 in 20",
+      "ipa": "/wʌn ɪn ˈtwɛnti/",
+      "meaning": [
+        {
+          "vi": "1 trên 20 (tỷ lệ, xác suất ~5%)",
+          "example_en": "The share of Americans over age 25 with a bachelor’s degree has gone from less than 1 in 20 in 1940 to 1 in 4 by 2015.",
+          "example_vi": "Tỷ lệ người Mỹ trên 25 tuổi có bằng cử nhân đã tăng từ chưa đến 1 trên 20 vào năm 1940 lên 1 trên 4 vào năm 2015.",
+          "note": "Cách nói chỉ tỉ lệ/thống kê. '1 in 20' = một người trong 20 người (~5%). Thường gặp trong nghiên cứu, khảo sát, báo cáo khoa học."
+        }
+      ],
+      "cefr_level": "B1",
+      "favorite": false
+    },
+    {
+      "word": "college tuition",
+      "ipa": "/ˈkɒlɪdʒ tjuˈɪʃən/ (BrE), /ˈkɑːlɪdʒ tuˈɪʃən/ (AmE)",
+      "meaning": [
+        {
+          "vi": "học phí đại học",
+          "example_en": "The average college tuition over that time rose more than fourfold adjusted for inflation.",
+          "example_vi": "Học phí đại học trung bình trong thời gian đó đã tăng hơn gấp bốn lần sau khi điều chỉnh theo lạm phát.",
+          "note": "Danh từ ghép; 'tuition' = học phí (khác với 'fee' là lệ phí). Ở Mỹ, 'tuition' thường dùng riêng để chỉ học phí trường cao đẳng/đại học."
+        }
+      ],
+      "cefr_level": "B2",
+      "favorite": false
+    }
+  ]
+}

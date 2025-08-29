@@ -1,0 +1,31 @@
+{
+  "books": [
+    {
+      "title": "Louisiana's Way Home",
+      "slug": "louisianas-way-home",
+      "author": "Kate DiCamillo",
+      "coverImage": "/assets/louisianas-way-home.jpg",
+      "level": "B2",
+      "wordsCount": 109,
+      "process": "Completed"
+    },
+    {
+      "title": "The Psychology Of Money",
+      "slug": "the-psychology-of-money",
+      "author": "Morgan Housel",
+      "coverImage": "/assets/the-psychology-of-money.webp",
+      "level": "C1",
+      "wordsCount": 109,
+      "process": "Reading"
+    },
+    {
+      "title": "Bridge to Terabithia",
+      "slug": "bridge-to-terabithia",
+      "author": "Katherine Paterson",
+      "coverImage": "/assets/the-psychology-of-money.webp",
+      "level": "B1",
+      "wordsCount": 0,
+      "process": "Not started"
+    }
+  ]
+}
