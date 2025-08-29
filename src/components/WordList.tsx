@@ -1,8 +1,8 @@
-import WordCard from './WordCard';
+import { WordList } from "@/lib/types/word";
 
-import { WordList } from '@/lib/types/word';
+import WordCard from "./WordCard";
 
-export default function WordListComponent({ words } : { words: WordList}) {
+export default function WordListComponent({ words }: { words: WordList }) {
   return (
     <div className="space-y-4">
       {words.map((w) => (

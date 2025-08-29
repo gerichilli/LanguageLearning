@@ -1,7 +1,7 @@
 import { CEFR_COLORS } from '@/lib/constants/colors';
+import { Word } from '@/lib/types/word';
 import Badge from '@/ui/Badge';
 
-import { Word } from '@/lib/types/word';
 
 export default function WordCard({ word }: { word: Word }) {
   return (
