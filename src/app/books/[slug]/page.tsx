@@ -1,16 +1,34 @@
+"use client";
+import Image from "next/image";
+import { useEffect, useState } from "react";
 
-import Image from 'next/image';
+import WordListComponent from "@/components/WordList";
+import { BookDetail } from "@/lib/types/book";
 
-import WordListComponent from '@/components/WordList';
-import { BookDetail } from '@/lib/types/book';
+export default function Page({ params }: { params: { slug: string } }) {
+  const { slug } = params;
 
-export default async function Page({ params }: { params: { slug: string } }) {
+  const [book, setBook] = useState<BookDetail | null>(null);
 
-  const { slug } = await params;
-  const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/data/${slug}.json`, {
-    next: { revalidate: 120 },
-  });
-  const book: BookDetail = await res.json();
+  useEffect(() => {
+    const fetchData = async () => {
+      const res = await fetch(`/api/book-detail/${slug}`, {
+        cache: "no-store",
+        next: { revalidate: 120 },
+      });
+      const data: BookDetail = await res.json();
+      setBook(data);
+    };
+    fetchData();
+  }, [slug]);
+
+  if (!book) {
+    return <div>Loading...</div>;
+  }
+
+  if (!book.title) {
+    return <div>Book not found.</div>;
+  }
 
   return (
     <div className="container max-w-3xl mx-auto pt-8 md:pt-16 pb-12">
@@ -19,9 +37,7 @@ export default async function Page({ params }: { params: { slug: string } }) {
           <Image src={book.coverImage} alt={book.title} width={256} height={400} />
         </div>
         <div>
-          <h1 className="text-2xl md:text-4xl font-medium text-right mb-8 font-decoration leading-normal">
-            {book.title}
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-medium text-right mb-8 font-decoration leading-normal">{book.title}</h1>
           <div id="total-words" className="text-sm text-gray-600 text-right mb-6 font-decoration">
             Total Words: {book.words.length}
           </div>

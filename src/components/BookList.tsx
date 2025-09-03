@@ -1,17 +1,36 @@
+"use client";
+import { useEffect, useState } from "react";
 
-import { BookList } from '@/lib/types/book';
+import { BookList } from "@/lib/types/book";
 
-import BookCard from '../components/BookCard';
+import BookCard from "../components/BookCard";
 
-export default async function BookListComponent() {
-  const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/data/book-list.json`, {
-    next: { revalidate: 120 },
-  });
-  const data: {books: BookList} = await res.json();
+export default function BookListComponent() {
+  const [books, setBooks] = useState<BookList | null>(null);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      const res = await fetch("/api/book-list", {
+        cache: "no-store",
+        next: { revalidate: 120 },
+      });
+      const data: { books: BookList } = await res.json();
+      setBooks(data.books);
+    };
+    fetchData();
+  }, []);
+
+  if (!books) {
+    return <div>Loading...</div>;
+  }
+
+  if (books.length === 0) {
+    return <div>No books found.</div>;
+  }
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-      {data.books.map((b) => (
+      {books.map((b) => (
         <BookCard key={b.slug} book={b} />
       ))}
     </div>
