@@ -1,11 +1,18 @@
+// src/app/api/book-detail/[slug]/route.ts
+
 import fs from "fs/promises";
 import path from "path";
 
-export async function GET(request: Request, { params }: { params: { slug: string } }) {
-  const slug = await params.slug;
+import { NextRequest } from "next/server";
+
+export async function GET(
+  _req: NextRequest,
+  ctx: { params: Promise<{ slug: string }> } // 👈 params là Promise
+) {
+  const { slug } = await ctx.params; // 👈 await params
+
   try {
     const filePath = path.join(process.cwd(), "public", "data", `${slug}.json`);
-
     const json = await fs.readFile(filePath, "utf8");
 
     return new Response(json, {
