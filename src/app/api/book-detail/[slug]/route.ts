@@ -7,9 +7,9 @@ import { NextRequest } from "next/server";
 
 export async function GET(
   _req: NextRequest,
-  ctx: { params: Promise<{ slug: string }> } // 👈 params là Promise
+  ctx: { params: Promise<{ slug: string }> }
 ) {
-  const { slug } = await ctx.params; // 👈 await params
+  const { slug } = await ctx.params; 
 
   try {
     const filePath = path.join(process.cwd(), "public", "data", `${slug}.json`);
