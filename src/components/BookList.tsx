@@ -1,30 +1,16 @@
 "use client";
-import { useEffect, useState } from "react";
-
-import { BookList } from "@/lib/types/book";
+import { useBooks } from "@/hooks/useBooks";
 
 import BookCard from "../components/BookCard";
 
 export default function BookListComponent() {
-  const [books, setBooks] = useState<BookList | null>(null);
+  const { books, isLoading } = useBooks();
 
-  useEffect(() => {
-    const fetchData = async () => {
-      const res = await fetch("/api/book-list", {
-        cache: "no-store",
-        next: { revalidate: 120 },
-      });
-      const data: { books: BookList } = await res.json();
-      setBooks(data.books);
-    };
-    fetchData();
-  }, []);
-
-  if (!books) {
+  if (isLoading) {
     return <div>Loading...</div>;
   }
 
-  if (books.length === 0) {
+  if (!books || books.length === 0) {
     return <div>No books found.</div>;
   }
 
